@@ -1,0 +1,40 @@
+Bureau of Justice Statistics,,,,,
+Filename: fjs1516f01.csv,,,,,
+"Figure 1. Suspects and defendants processed in the federal justice system, FY 1994–2016",,,,,
+"Report title: Federal Justice Statistics, 2015 -2016   NCJ 251770",,,,,
+"Data source:   Bureau of Justice Statistics, based on data from the U.S. Marshals Service, Justice Detainee Information System; Executive Office for U.S. Attorneys, National Legal Information Office Network System database; and Administrative Office of the U.S. Courts, Criminal Master File, fiscal years 1994–2016.",,,,,
+"Author: Mark Motivans, Ph.D.,  BJS Statistician",,,,,
+Refer questions to: askbjs@usdoj.gov or 202-307-0765 ,,,,,
+Date of version: 01/17/19,,,,,
+,,,,,
+"Figure 1. Suspects and defendants processed in the federal justice system, FY 1994–2016",,,,,
+,,,,,
+Fiscal year,Suspects arrested/a,Suspects investigated/b,Defendants charged/c,Defendants convicted/d,Defendants sentenced to prison/d
+1994,80450,99251,62327,50701,33022
+1995,82989,102220,63547,47556,31805
+1996,84860,97776,"65,480",53076,36373
+1997,91504,110034,69351,56570,39431
+1998,103866,115692,78172,60958,43041
+1999,109033,117994,80031,66055,47659
+2000,115025,123559,83251,68156,50451
+2001,116777,121818,82614,68533,51057
+2002,121610,124335,"87,727",71798,53682
+2003,124708,130078,92085,75805,57629
+2004,138223,141215,92645,74782,58106
+2005,137411,137590,91578,78042,61151
+2006,144072,133935,"87,650",79904,63699
+2007,151844,138410,"88,742",79356,62893
+2008,173463,178570,91835,82823,64529
+2009,181726,188341,"97,513",86975,67499
+2010,179489,187916,"99,921",89902,69494
+2011,177547,187735,103021,92240,70049
+2012,172248,190596,92789,87908,67582
+2013,188164,190267,89843,82838,64390
+2014,165265,160505,80051,78155,60626
+2015,153478,157313,78742,72427,56018
+2016,"151,460",151994,76276,69487,54274
+a/Suspects in matters investigated by U.S. attorneys. ,,,,,
+b/Suspects arrested by federal law enforcement. Excludes D.C. Superior Court arrests.,,,,,
+c/Defendants charged with a felony or Class A misdemeanor offense in U.S. district court. Defendants charged in more than one case are counted separately.,,,,,
+d/Defendants in cases terminated with a felony or Class A misdemeanor offense in U.S. district court.,,,,,
+"Source: Bureau of Justice Statistics, based on data from the U.S. Marshals Service, Justice Detainee Information System; Executive Office for U.S. Attorneys, National Legal Information Office Network System database; and Administrative Office of the U.S. Courts, Criminal Master File, fiscal years 1994–2016.",,,,,
